@@ -5,29 +5,7 @@
 
     {% include meta.html %}
 
-    <!--[if lt IE 9]>
-      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    
-    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
-    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
-	<link rel="icon" type="image/png" href="/images/favicon-16x16.png" sizes="16x16">
-	<link rel="icon" type="image/png" href="/images/favicon-32x32.png" sizes="32x32">
-	
-	<script type="text/javascript" src="/js/jquery-3.5.1.min.js"></script>
-	<script type="text/javascript" src="/js/jquery-inline-footnotes.js"></script>
-	<script type="text/javascript" src="/js/custom.js?d={{ site.time | date: '%s%N' }}" }}"></script>
-	<script type="text/javascript">
-	$(function() {
-		$('.footnote').inlineFootnote({
-			hideFromContent: ".reversefootnote"
-		});
-		{% if page.strip_footnotes %}
-		$('.footnotes').hide()
-		{% endif %}
-	})
-	</script>
-    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+	{% include head.html %}
   </head>
 
   <body>
