@@ -52,7 +52,6 @@ baseurl: ""
 plugins:
   - jekyll-paginate
 
-markdown: GFM
 highlighter: rouge
 
 #
@@ -101,3 +100,4 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+  - eino/process.pl

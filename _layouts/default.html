@@ -5,7 +5,15 @@
 
     {% include meta.html %}
 
+	{% if page.slideshow %}
+	<link type="text/css" rel="stylesheet" href="/chocolat/css/chocolat.css">
+	{% endif %}
+
 	{% include head.html %}
+	
+	{% if page.slideshow %}
+	<script src="/chocolat/js/chocolat.js"></script>
+	{% endif %}
   </head>
 
   <body>

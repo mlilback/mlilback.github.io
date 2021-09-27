@@ -182,3 +182,40 @@ table.defs {
   transition: all 300ms linear;
   transform: rotate(90deg);
 }
+
+summary {
+  outline: none;
+}
+
+details.eino {
+background-color: oldlace;
+  summary {
+    cursor: pointer;
+    background-color: $pageBGColor;
+  }
+  > p {
+    margin-left: 1em;
+  }
+}
+
+.eino-credits {
+	margin-top: 2em;
+	font-size: smaller;
+  .eino-copyright {
+	  font-style: italic;
+  }
+
+  .eino-contact {
+  }
+}
+
+.lSAction > .lSPrev, .lSNext {
+		filter: invert(100%);
+}
+
+/* container for <a class="eino-photo"><img></a> that hold each thumbnail */
+.eino-thumbs {
+	.eino-photo {
+		margin: 10px;
+	}
+}
