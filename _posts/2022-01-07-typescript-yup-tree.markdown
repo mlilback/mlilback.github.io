@@ -19,7 +19,7 @@ a way to model this and validate the objects. I couldn't find
 an example of how to do this, so I figured it out and this post
 is to document this for my future self and others.
 
-```TypeScript
+```
 import * as yup from 'yup'
 
 const baseSchema = yup.object({
