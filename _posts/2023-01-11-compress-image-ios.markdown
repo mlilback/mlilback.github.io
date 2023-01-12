@@ -2,7 +2,7 @@
 date: '2023-01-11 19:12:31'
 layout: post
 slug: compress-image-ios
-title: Using a Typescript custom transformer in Quasar
+title: Resizing an image's file size on iOS
 author: mlilback
 category: General
 tags: 
