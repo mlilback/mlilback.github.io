@@ -1,14 +1,12 @@
 ---
+title: Home v. Cell Phones
 date: '2007-05-02 02:59:37'
 layout: post
-slug: home-v-cell-phones
-status: publish
-title: Home v. Cell Phones
-wordpress_id: '8'
 categories:
 - Pet Peeves
+tags: []
+author: mlilback
 ---
-
 Cell phones have been around for a long time now (I've had one for over ten years), and they've always had really nice features like a call log (incoming and outgoing), custom ring tones, etc. So why the hell haven't home phones added these features?
 
 

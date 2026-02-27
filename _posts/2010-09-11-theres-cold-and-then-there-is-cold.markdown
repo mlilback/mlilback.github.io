@@ -1,17 +1,14 @@
 ---
+title: there's cold, and then there is COLD
 date: '2010-09-11 18:14:25'
 layout: post
-slug: theres-cold-and-then-there-is-cold
-status: publish
-title: there's cold, and then there is COLD
-wordpress_id: '58'
 categories:
 - Personal
 tags:
 - cold shower
 - morgantown
+author: mlilback
 ---
-
 I moved into my new place in [Morgantown](http://www.downtownmorgantown.com/) on Wednesday when electricity was finally turned on, but unbeknownst to me, my hot water heater uses gas. The gas company needs access to the basement, which means the landlord needs to be here. And he is harder to get on the phone than I used to be, which I didn't think was possible.
 
 

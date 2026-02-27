@@ -1,0 +1,129 @@
+name: "Create Blog Post"
+
+on:
+  workflow_dispatch:
+    inputs:
+      title:
+        description: "Post title"
+        required: true
+        type: string
+      category:
+        description: "Category"
+        required: true
+        default: "Personal"
+        type: choice
+        options:
+          - Personal
+          - Programming
+          - Apple
+          - Computers
+          - Pet Peeves
+          - Comedy
+          - Society
+          - General
+      tags:
+        description: "Tags (comma-separated)"
+        required: false
+        type: string
+      body:
+        description: "Post content (Markdown)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: true
+
+jobs:
+  create-post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Create post file
+        env:
+          POST_TITLE: ${{ inputs.title }}
+          POST_CATEGORY: ${{ inputs.category }}
+          POST_TAGS: ${{ inputs.tags }}
+          POST_BODY: ${{ inputs.body }}
+        run: |
+          # Generate slug from title
+          SLUG=$(echo "$POST_TITLE" | tr '[:upper:]' '[:lower:]' | sed 's/[^a-z0-9 -]//g' | sed 's/ /-/g' | sed 's/--*/-/g' | sed 's/^-//' | sed 's/-$//')
+          DATE=$(date -u +"%Y-%m-%d")
+          DATETIME=$(date -u +"%Y-%m-%d %H:%M:%S -0500")
+          FILENAME="_posts/${DATE}-${SLUG}.markdown"
+
+          # Format tags as YAML array
+          if [ -n "$POST_TAGS" ]; then
+            TAGS_YAML=$(echo "$POST_TAGS" | sed 's/,/\n/g' | sed 's/^ *//' | sed 's/ *$//' | sed 's/^/- /')
+          else
+            TAGS_YAML="[]"
+          fi
+
+          # Create the post file
+          cat > "$FILENAME" << POSTEOF
+          ---
+          title: "${POST_TITLE}"
+          date: '${DATETIME}'
+          layout: post
+          categories:
+          - ${POST_CATEGORY}
+          tags:
+          ${TAGS_YAML}
+          author: mlilback
+          ---
+          ${POST_BODY}
+          POSTEOF
+
+          # Remove leading whitespace from heredoc
+          sed -i 's/^          //' "$FILENAME"
+
+          echo "FILENAME=${FILENAME}" >> $GITHUB_ENV
+          echo "Created: ${FILENAME}"
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add "${{ env.FILENAME }}"
+          git commit -m "Add post: ${{ inputs.title }}"
+          git push
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+          bundler-cache: true
+
+      - name: Build site
+        run: bundle exec jekyll b -d "_site${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: "production"
+
+      - name: Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site${{ steps.pages.outputs.base_path }}"
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: create-post
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

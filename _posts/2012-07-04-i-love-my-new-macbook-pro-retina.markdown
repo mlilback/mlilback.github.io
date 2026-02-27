@@ -1,19 +1,15 @@
 ---
+title: I love my new MacBook Pro Retina
 date: '2012-07-04 11:35:46'
 layout: post
-slug: i-love-my-new-macbook-pro-retina
-status: publish
-title: I love my new MacBook Pro Retina
-wordpress_id: '155'
 categories:
 - Apple
 tags:
 - benchmarks
 - MacBook Pro
 - retina
+author: mlilback
 ---
-
-
  just got my Mac Book Pro Retina and without a doubt it is the best computer I've every owned. My vision is pretty crappy, and I can't make out heads or tails on a MacBook Air screen at the default resolution (glasses make no difference). But the MBP retina display is so crisp and sharp that I can even read the text from a few feet away. I had really thought I'd never be able to comfortably view a laptop screen again.
 <!--more-->
 I got the 2.6 GHz model with 16GB RAM and a 512GB SSD. And it is a screamer. I ran geekbench on all of my current computers, and the numbers are impressive. All the older machines have a 256GB SSD in them.

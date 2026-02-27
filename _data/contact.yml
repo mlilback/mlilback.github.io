@@ -1,0 +1,10 @@
+- type: github
+  icon: "fab fa-github"
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/mlilback"
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true

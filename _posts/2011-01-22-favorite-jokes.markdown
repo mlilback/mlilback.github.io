@@ -1,17 +1,14 @@
 ---
+title: Favorite Jokes
 date: '2011-01-22 00:19:35'
 layout: post
-slug: favorite-jokes
-status: publish
-title: Favorite Jokes
-wordpress_id: '119'
 categories:
 - Comedy
 - Personal
 tags:
 - funny
+author: mlilback
 ---
-
 Here are a couple of my favorite jokes
 
 Q. Why can't the police ever solve a redneck homicide?

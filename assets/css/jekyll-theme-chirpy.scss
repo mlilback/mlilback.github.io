@@ -1,0 +1,66 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* ===== Purple theme overrides ===== */
+
+/* Light mode */
+:root,
+html[data-mode='light'] {
+  --link-color: #7c3aed;
+  --link-underline-color: rgba(124, 58, 237, 0.3);
+  --checkbox-checked-color: #8b5cf6;
+  --toc-highlight: #7c3aed;
+  --btn-share-hover-color: #7c3aed;
+  --btn-paginator-hover-color: #7c3aed;
+  --sidebar-bg: #2d1b69;
+  --sidebar-border-color: #3b2380;
+  --sidebar-muted-color: rgba(255, 255, 255, 0.6);
+  --sidebar-active-color: #e9d5ff;
+  --sidebar-hover-bg: rgba(139, 92, 246, 0.3);
+  --sidebar-btn-bg: rgba(139, 92, 246, 0.2);
+  --sidebar-btn-color: #e9d5ff;
+  --site-title-color: #ffffff;
+  --site-subtitle-color: rgba(233, 213, 255, 0.8);
+  --avatar-border-color: rgba(139, 92, 246, 0.5);
+  --input-focus-border-color: #8b5cf6;
+  --tag-hover: #7c3aed;
+  --categories-icon-hover-color: #7c3aed;
+  --btn-backtotop-color: #7c3aed;
+  --btn-backtotop-border-color: #7c3aed;
+  --prompt-tip-icon-color: #7c3aed;
+  --footnote-target-bg: rgba(139, 92, 246, 0.1);
+}
+
+/* Dark mode */
+html[data-mode='dark'] {
+  --link-color: #c4b5fd;
+  --link-underline-color: rgba(196, 181, 253, 0.3);
+  --checkbox-checked-color: #a78bfa;
+  --toc-highlight: #c4b5fd;
+  --btn-share-hover-color: #a78bfa;
+  --btn-paginator-hover-color: #a78bfa;
+  --sidebar-bg: #1a0f36;
+  --sidebar-border-color: #2d1b69;
+  --sidebar-muted-color: rgba(255, 255, 255, 0.5);
+  --sidebar-active-color: #e9d5ff;
+  --sidebar-hover-bg: rgba(139, 92, 246, 0.25);
+  --sidebar-btn-bg: rgba(139, 92, 246, 0.15);
+  --sidebar-btn-color: #c4b5fd;
+  --site-title-color: #f5f3ff;
+  --site-subtitle-color: rgba(196, 181, 253, 0.8);
+  --avatar-border-color: rgba(139, 92, 246, 0.4);
+  --input-focus-border-color: #a78bfa;
+  --tag-hover: #a78bfa;
+  --categories-icon-hover-color: #a78bfa;
+  --btn-backtotop-color: #a78bfa;
+  --btn-backtotop-border-color: #a78bfa;
+  --prompt-tip-icon-color: #a78bfa;
+  --footnote-target-bg: rgba(139, 92, 246, 0.15);
+}

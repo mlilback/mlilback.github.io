@@ -1,12 +1,12 @@
 ---
+title: Rc&sup2;&#58; Six years and counting
 date: '2017-04-18 11:41:37'
 layout: post
-slug: last-six-years
-title: Rc&sup2;&#58; Six years and counting
+categories:
+- Personal
+tags: []
 author: mlilback
-category: Personal
 ---
-
 I moved to Morgantown, WV in the fall of 2010. With two partners, I started Agile Monks, a software development company. We shipped a couple minor OS X utilities, three iOS apps, and did some consulting work. We finally shut it down in 2016, though it was actually dead well before that.
 
 The reason I moved, however, was to take a job in the West Virginia University Statistics department (which offered great healthcare). Most of my time was spent working on a project called Rc&sup2;: [R](http://www.r-project.org/) Cloud Computing . It was a client/server system for using R without having to know anything about setting up the server portion. The interface was designed like consumer software, not something designed by experts/academics for their own use. It was available for both macOS and iOS. It included collaboration features that allowed an entire classroom to use it, including automatic handling of assignments.

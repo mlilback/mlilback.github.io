@@ -1,14 +1,12 @@
 ---
+title: Farewell Kayla, May You Rest in Peace
 date: '2007-07-11 03:47:17'
 layout: post
-slug: farewell-kayla-may-you-rest-in-peace
-status: publish
-title: Farewell Kayla, May You Rest in Peace
-wordpress_id: '7'
 categories:
 - Personal
+tags: []
+author: mlilback
 ---
-
 ![](/images/kayla1.jpg)
 
 Kayla wasn’t just a pet to me. She was a comfort to me when everything else seemed wrong. She knew my feelings and emotions. If I was stressed, she was, too. If I was down, she would come sit by me and if I leaned close, she’d wash me, too.

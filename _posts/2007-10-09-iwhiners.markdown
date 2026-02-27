@@ -1,14 +1,12 @@
 ---
+title: iWhiners
 date: '2007-10-09 19:36:36'
 layout: post
-slug: iwhiners
-status: publish
-title: iWhiners
-wordpress_id: '6'
 categories:
 - Apple
+tags: []
+author: mlilback
 ---
-
 There has been a lot of bitching about the iPhone lately: no SDK, bricking the phone with the 1.1.1 update, and the price drop to name a few. But in all of the instances I’ve read about, I’m 100% behind Apple. When someone purchased an iPhone, they knew what they were getting: a phone with no 3rd party support and a locked phone that only works with AT&T. If thye weren’t ok with that, they shouldn’t have bought it.
 <!--more-->
 Apple publicly announced, and most Apple news sites reported that the 1.1.1 update would possibly brick your phone. The update itself warned that. Any idiot with a hacked iPhone who bricked it because they installed the update got what they deserved. Their problem, not Apple’s.

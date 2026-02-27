@@ -1,16 +1,13 @@
 ---
+title: Back in the Swing of Things
 date: '2010-08-10 20:05:29'
 layout: post
-slug: back-in-the-swing-of-things
-status: publish
-title: Back in the Swing of Things
-wordpress_id: '69'
 categories:
 - Personal
 tags:
 - morgantown
+author: mlilback
 ---
-
 The last few years have been pretty bad. Lots of health problems, and I haven't been able to work much at all. Just a few consulting jobs to pay the rent and medical bills. But things are looking up.
 
 

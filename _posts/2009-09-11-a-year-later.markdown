@@ -1,17 +1,14 @@
 ---
+title: A Year Later
 date: '2009-09-11 21:57:32'
 layout: post
-slug: a-year-later
-status: publish
-title: A Year Later
-wordpress_id: '67'
 categories:
 - Personal
 tags:
 - 9/11
 - nyc
+author: mlilback
 ---
-
 _Note: This post is from a text file on my hard drive that was created on 9/9/2002 at 9:16 am. I was asked to write it by the Orange County News, a weekly section of the [Beaumont Enterprise](http://www.beaumontenterprise.com/)._
 
 It's hard to believe it has been a year. Thinking back, I can account for the time--but it just doesn't feel like it has been that long.

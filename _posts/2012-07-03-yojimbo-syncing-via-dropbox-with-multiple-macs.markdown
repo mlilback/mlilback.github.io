@@ -1,22 +1,14 @@
 ---
+title: Yojimbo syncing via Dropbox with multiple Macs
 date: '2012-07-03 11:59:30'
 layout: post
-slug: yojimbo-syncing-via-dropbox-with-multiple-macs
-status: publish
-title: Yojimbo syncing via Dropbox with multiple Macs
-wordpress_id: '143'
-category: Computers
+categories:
+- Computers
 tags:
 - Dropbox
 - Yojimbo
+author: mlilback
 ---
-
- 
-
-
-
-
-
 [Ben Brooks](http://brooksreview.net/2012/06/yojimbo-sync/) wrote about the problems with using Dropbox and multiple Macs, offering a solution using Keyboard Maestro. Here is the solution I've been using for a while. Save the following AppleScript and set it up as a Folder Action in your Dropbox on each machine (you must do it on both machines if you want it to work both ways).
 
 <!--more-->

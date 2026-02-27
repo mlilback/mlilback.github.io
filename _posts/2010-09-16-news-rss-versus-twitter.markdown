@@ -1,19 +1,17 @@
 ---
+title: 'News: RSS versus Twitter'
 date: '2010-09-16 14:50:41'
 layout: post
-slug: news-rss-versus-twitter
-status: publish
-title: 'News: RSS versus Twitter'
-wordpress_id: '89'
-category: Society
+categories:
+- Society
 tags:
 - daring fireball
 - journalism
 - rss
 - scripting news
 - twitter
+author: mlilback
 ---
-
 An interesting issue noted by [Dave Winer](http://scripting.com/stories/2010/09/13/howToRebootRss.html) via [Daring Fireball](http://daringfireball.net/linked/2010/09/17/winer-unread): 
 
 

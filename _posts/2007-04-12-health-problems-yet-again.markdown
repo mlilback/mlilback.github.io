@@ -1,14 +1,12 @@
 ---
+title: Health Problems, Yet Again
 date: '2007-04-12 21:55:18'
 layout: post
-slug: health-problems-yet-again
-status: publish
-title: Health Problems, Yet Again
-wordpress_id: '10'
 categories:
 - Personal
+tags: []
+author: mlilback
 ---
-
 Once again, I've been hit by health problems again. This time it was a abscess on my lower back right below the waist. It became incredibly painful, and boy did it hurt when the doctor lanced it. I stayed in the hospital for four days, and probably close to another four days before it in pain and recovering afterwards. I'm still on antibiotics and it is still there, just not as nasty.
 
 

@@ -1,17 +1,14 @@
 ---
+title: Some of us remember 9/11 everyday
 date: '2011-09-11 17:15:30'
 layout: post
-slug: some-of-us-remember-911-everyday
-status: publish
-title: Some of us remember 9/11 everyday
-wordpress_id: '138'
 categories:
 - Personal
 tags:
 - 9/11
 - media
+author: mlilback
 ---
-
 I purposely avoided ground zero this weekend. I would have liked to visit on my first trip back to NYC in almost six years, but it will always be a deeply personal affair for me, one I can't share with the callous, sensationalistic press and disgusting politicians faking tears for votes.
 
 As I've passed newsstands with full page pictures of the burning towers, as I've heard younger passengers on the bus I'm on say that 9/11 doesn't mean anything specific to them, I can't help but get upset. Not at the youth. Vietnam never meant anything to me, and I don't expect 9/11 to mean much to them. But at the media, the politicians, the greedy trying to make a profit.

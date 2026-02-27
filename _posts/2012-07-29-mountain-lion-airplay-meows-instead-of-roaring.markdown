@@ -1,18 +1,15 @@
 ---
+title: AirPlay on Mountain Lion Meows Instead of Roaring
 date: '2012-07-29 10:27:01'
 layout: post
-slug: mountain-lion-airplay-meows-instead-of-roaring
-status: publish
-title: AirPlay on Mountain Lion Meows Instead of Roaring
-wordpress_id: '159'
 categories:
 - Apple
 - Programming
 tags:
 - AirPlay
 - Mountain Lion
+author: mlilback
 ---
-
 As a developer, I was excited to see that Mountain Lion would support AirPlay. I could do all the same things from a Mac that I could from an iPad. Unfortunately, that isn't the case.
 <!--more-->
 For a technical breakdown of how desktop AirPlay is implemented, read [ArsTechnica article on AirPlay](http://arstechnica.com/apple/2012/07/mountain-lion-airplay-mirroring-v-airparrot-fight/). Basically it uses a technology called QuickSync that is in newer Intel graphics chips. So no matter how much better your discrete chip is, you've got to use the weaker Intel one to mirror. Which means you won't want to mirror Diablo 3.

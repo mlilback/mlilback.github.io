@@ -1,14 +1,12 @@
 ---
+title: Grocery Shopping
 date: '2007-04-12 22:08:35'
 layout: post
-slug: grocery-shopping
-status: publish
-title: Grocery Shopping
-wordpress_id: '9'
 categories:
 - Pet Peeves
+tags: []
+author: mlilback
 ---
-
 I really can't comprehend how someone can accidentally get in the express checkout lane with a full basket of groceries. And I really can't understand why the store staff doesn't say something. 
 
 

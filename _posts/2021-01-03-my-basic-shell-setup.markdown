@@ -1,12 +1,12 @@
 ---
+title: My Basic Shell Setup
 date: '2021-01-03 15:24:40'
 layout: post
-slug: my-basic-shell-setup
-title: My Basic Shell Setup
+categories:
+- Computers
+tags: []
 author: mlilback
-category: Computers
 ---
-
 I started using *nix and programming in the early nineties. There were no helpers around, so I manually learned to do everything by hand. Same with HTML, or anything else on the Internet[^1]. 
 
 Up until this weekend, I was using bash with profile lines dating back close to 30 years[^2]. My .bash_profile was a hot mess of stuff that I didn't understand.

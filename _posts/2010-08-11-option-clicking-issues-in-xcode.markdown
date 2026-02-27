@@ -1,10 +1,7 @@
 ---
+title: Option Clicking Issues in Xcode
 date: '2010-08-11 13:23:35'
 layout: post
-slug: option-clicking-issues-in-xcode
-status: publish
-title: Option Clicking Issues in Xcode
-wordpress_id: '50'
 categories:
 - Apple
 - Programming
@@ -13,8 +10,8 @@ tags:
 - nstextview
 - text selection
 - xcode
+author: mlilback
 ---
-
 Starting with Leopard, NSTextView added support for rectangular selections and non-contiguous selections. Personally I've never used these features. However, they do get in my way.
 
 You make a rectangular selection by holding the option key while you click and drag. For one, this changes the cursor to a crosshair that just looks wrong to me in a text view. Also, it interferes with drag a dropping a copy of some text.

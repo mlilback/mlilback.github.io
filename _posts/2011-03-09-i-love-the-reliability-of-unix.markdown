@@ -1,18 +1,15 @@
 ---
+title: I love the reliability of Unix
 date: '2011-03-09 01:13:04'
 layout: post
-slug: i-love-the-reliability-of-unix
-status: publish
-title: I love the reliability of Unix
-wordpress_id: '129'
 categories:
 - Apple
 tags:
 - Mac OS X
 - SSD
 - uptime
+author: mlilback
 ---
-
 I love how reliable and depenedable Mac OS X and its Unix underpinnings are. I was wondering when I last rebooted (I try to reboot every week or so) and got the following:
 
 

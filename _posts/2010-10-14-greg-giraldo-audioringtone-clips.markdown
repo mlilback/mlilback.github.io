@@ -1,10 +1,7 @@
 ---
+title: Greg Giraldo Audio/Ringtone Clips
 date: '2010-10-14 13:39:57'
 layout: post
-slug: greg-giraldo-audioringtone-clips
-status: publish
-title: Greg Giraldo Audio/Ringtone Clips
-wordpress_id: '99'
 categories:
 - Comedy
 tags:
@@ -13,8 +10,8 @@ tags:
 - iphone
 - ringtones
 - standup
+author: mlilback
 ---
-
 [Greg Giraldo](http://ccinsider.comedycentral.com/a-tribute-to-our-dear-friend-greg-giraldo/), one of my favorite comedians of all time, died a few weeks ago. There are a lot of memorable lines from his routine that I think of all the time. And then the idea hit me that I could memorialize him by making some ringtones from albums.
 
 <!--more-->

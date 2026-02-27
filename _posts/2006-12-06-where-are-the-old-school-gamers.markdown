@@ -1,14 +1,12 @@
 ---
+title: where are the old-school gamers?
 date: '2006-12-06 05:17:22'
 layout: post
-slug: where-are-the-old-school-gamers
-status: publish
-title: where are the old-school gamers?
-wordpress_id: '12'
 categories:
 - Personal
+tags: []
+author: mlilback
 ---
-
 I've been an avid game player my whole life. I helped started a gaming club in college, which I donated most of my games too. Since then, I've bought a lot of them. But as I've gotten older, I get to play them a lot less.
 
 The biggest reason is now that I've moved back to rural, playing games isn't the biggest past time. Maybe after football and hunting season are over. But then I'd still have to compete with poker (three casinos within a 30 minute drive) and other sports. 

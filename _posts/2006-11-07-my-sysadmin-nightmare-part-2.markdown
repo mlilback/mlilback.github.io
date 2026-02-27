@@ -1,14 +1,12 @@
 ---
+title: My Sysadmin Nightmare, Part 2
 date: '2006-11-07 22:09:25'
 layout: post
-slug: my-sysadmin-nightmare-part-2
-status: publish
-title: My Sysadmin Nightmare, Part 2
-wordpress_id: '13'
 categories:
 - Personal
+tags: []
+author: mlilback
 ---
-
 Well, we got a bit of a stay on having to move the servers, but I'm still working on it as fast as I can. I've got everything except perl modules installed on the new server. 
 
 

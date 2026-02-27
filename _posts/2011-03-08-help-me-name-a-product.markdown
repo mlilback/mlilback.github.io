@@ -1,10 +1,7 @@
 ---
+title: Help Me Name a Product
 date: '2011-03-08 19:33:04'
 layout: post
-slug: help-me-name-a-product
-status: publish
-title: Help Me Name a Product
-wordpress_id: '125'
 categories:
 - Personal
 - Programming
@@ -12,8 +9,8 @@ tags:
 - Agile Monks
 - iPad
 - music videos
+author: mlilback
 ---
-
 ![New App Icon](http://www.lilback.com/files/2011/03/mvplogo.png)
 
 I'm finally getting close to shipping my first iPad app but have run into one roadblock. What should I call it?

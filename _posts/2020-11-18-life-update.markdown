@@ -1,12 +1,12 @@
 ---
+title: An update on my life
 date: '2020-11-18 17:43:37'
 layout: post
-slug: life-update
-title: An update on my life
+categories:
+- Personal
+tags: []
 author: mlilback
-category: Personal
 ---
-
 A lot of things have happened over the last few years, so I figured I'd go ahead and document them.
 
 * On May 2, 2017 my father, Eino Lilback, Jr passed away. He was 75, and the person I looked up to the most. Due to flight delays, I didn't make it in time, though the taking his body (he wanted it donated to science) waited until I got there after midnight. It was really hard on me and Judy (my stepmother), I spent a month with her. I'm tearing up just writing this, 3+ years later.

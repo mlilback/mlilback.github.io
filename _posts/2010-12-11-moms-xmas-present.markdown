@@ -1,18 +1,15 @@
 ---
+title: I Just Got an Early Christmas Present
 date: '2010-12-11 15:18:48'
 layout: post
-slug: moms-xmas-present
-status: publish
-title: I Just Got an Early Christmas Present
-wordpress_id: '113'
 categories:
 - Personal
 tags:
 - christmas
 - freezer
 - popsicles
+author: mlilback
 ---
-
 ![My New Freezer](/images/freezer.jpg)
 
 I have an addiction. A really bad addiction. And my mom has helped to make it worse with her Christmas present, which was just delivered today from Home Depot.

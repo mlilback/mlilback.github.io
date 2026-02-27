@@ -1,13 +1,12 @@
 ---
+title: Voting Blues
 date: '2006-11-03 23:11:05'
 layout: post
-slug: voting-blues
-status: publish
-title: Voting Blues
-wordpress_id: '14'
-category: Society
+categories:
+- Society
+tags: []
+author: mlilback
 ---
-
 I just got back from early voting, and once again I'm disgusted by the ballot. Fortunately it was still optical scan, not one of the disastrous touch-screen system. But I really can't stand seeing the majority of the races only have one candidate listed and no spot for a write-in. 
 
 

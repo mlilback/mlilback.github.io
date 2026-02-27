@@ -1,5 +1,5 @@
 ---
-layout: slideshow
+layout: page
 title: Orange Boat Show 2010
 auto: false
 slideshow: true

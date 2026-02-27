@@ -1,17 +1,14 @@
 ---
+title: A Story of Disaster
 date: '2009-09-11 21:53:31'
 layout: post
-slug: a-story-of-disaster
-status: publish
-title: A Story of Disaster
-wordpress_id: '66'
 categories:
 - Personal
 tags:
 - 9/11
 - nyc
+author: mlilback
 ---
-
 _Note: This post is from a text file on my hard drive that was created on 9/11/2001 at 9:19 pm. I then emailed it to my family and friends, and it was passed around the Internet and even reprinted in the [Orange Leader](http://orangeleader.com/) and the [Beaumont Enterprise](http://www.beaumontenterprise.com/)._
 
 A first hand account of the WTC Disaster

@@ -1,12 +1,12 @@
 ---
+title: The US founding fathers did not intend a Christian nation
 date: '2007-12-14 02:48:24'
 layout: post
-slug: the-us-founding-fathers-did-not-intend-a-christian-nation
-status: publish
-title: The US founding fathers did not intend a Christian nation
-category: Society
+categories:
+- Society
+tags: []
+author: mlilback
 ---
-
 I’d been working on a similar draft for months, but I don’t think I could have put it any better:
 
 [Guest Blogger: Romney’s Founders](http://www.acsblog.org/guest-bloggers-guest-blogger-romneys-founders.html):

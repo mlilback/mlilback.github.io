@@ -1,15 +1,14 @@
 ---
+title: Using a Typescript custom transformer in Quasar
 date: '2022-03-30 9:48:37'
 layout: post
-slug: quasar-tsloader
-title: Using a Typescript custom transformer in Quasar
-author: mlilback
-category: Programming
-tags: 
+categories:
+- Programming
+tags:
 - typescript
 - quasar
+author: mlilback
 ---
-
 I'm working on a few projects using [Quasar](https://quasar.dev) and 
 [Typescript](https://www.typescriptlang.org). I got tired of writing
 my own type guards, and found [ts-type-checked](https://github.com/janjakubnanista/ts-type-checked)

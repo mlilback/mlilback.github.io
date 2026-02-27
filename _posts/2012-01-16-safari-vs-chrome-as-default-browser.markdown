@@ -1,16 +1,15 @@
 ---
+title: Safari vs. Chrome as default browser
 date: '2012-01-16 17:07:59'
 layout: post
-slug: safari-vs-chrome-as-default-browser
-status: publish
-title: Safari vs. Chrome as default browser
-category: Computers
+categories:
+- Computers
 tags:
 - browser
 - chrome
 - safari
+author: mlilback
 ---
-
 I've noticed more and more of the bloggers I read prefer Chrome over Safari (the two I remember off the top of my head are [MG Siegler](http://techcrunch.com/2011/12/24/safari-and-chrome/) and [Justin Williams](http://carpeaqua.com/2011/12/19/my-ultimate-developer-and-power-users-tool-list-for-mac-os-x-2011-edition-/).) So last month I decided to give it a try.
 
 In general, I like Chrome better. However, I switched back to Safari after a few weeks because of one problem: bookmark syncing. With Safari's use of iCloud, I can add a bookmark at home, work, on my laptop, on my iPad, or on my iPhone and it shows up on all of them. Chrome can't do this.

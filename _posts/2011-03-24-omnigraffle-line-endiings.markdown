@@ -1,14 +1,13 @@
 ---
+title: OmniGraffle Line Endings
 date: '2011-03-24 12:49:55'
 layout: post
-slug: omnigraffle-line-endiings
-status: publish
-title: OmniGraffle Line Endings
-category: Computers
+categories:
+- Computers
 tags:
 - AppleScript
+author: mlilback
 ---
-
 I was wondering what some of the line endings in [OmniGraffle](http://www.omnigroup.com/products/omnigraffle/) were called, but I couldn't find them documented anywhere in the Manual or even via a Google search. So I made up this list using OmniGraffle.
 
 <!--more-->

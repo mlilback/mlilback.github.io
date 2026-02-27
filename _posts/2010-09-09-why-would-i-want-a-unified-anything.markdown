@@ -1,10 +1,7 @@
 ---
+title: Why would I want a unified anything?
 date: '2010-09-09 20:36:02'
 layout: post
-slug: why-would-i-want-a-unified-anything
-status: publish
-title: Why would I want a unified anything?
-wordpress_id: '52'
 categories:
 - Apple
 - Pet Peeves
@@ -13,8 +10,8 @@ tags:
 - bills
 - mail
 - unified
+author: mlilback
 ---
-
 I was just reading the [list of enhancements](http://www.apple.com/ipad/software-update/) coming to the iPad with iOS 4.2 and ran across this gem: _See messages from all your accounts in a unified inbox_.
 
 

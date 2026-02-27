@@ -1,15 +1,12 @@
 ---
+title: Blogging Once More
 date: '2017-04-08 10:33:23'
 layout: post
-slug: once-more
-status: publish
-title: Blogging Once More
+categories:
+- Personal
+tags: []
 author: mlilback
-authorbio: mlilback
-comments: true
-category: Personal
 ---
-
 I'm always thinking about blogging, but I didn't realize it had been almost 5 years since I wrote something. Hosting my own site with a generator was way too much hassle. Now that I've switched to Github Pages, things will be much easier and I will post more frequently.
 		
 		

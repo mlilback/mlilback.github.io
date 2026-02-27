@@ -1,10 +1,7 @@
 ---
+title: One line shell script to count lines of source code
 date: '2010-12-01 13:33:38'
 layout: post
-slug: one-line-shell-script-to-count-lines-of-source-code
-status: publish
-title: One line shell script to count lines of source code
-wordpress_id: '106'
 categories:
 - Programming
 tags:
@@ -12,8 +9,8 @@ tags:
 - programming
 - shell script
 - unix
+author: mlilback
 ---
-
 Yes, I know counting lines of code isn't an effective way to measure the complexity of a project. But it does offer an easy way to compare the size of different projects. So here's a one line command/script to give you a count of all source files in the current directory and all subdirectories.
 
 

@@ -1,15 +1,14 @@
 ---
+title: Validating a Tree in Yup with Typescript
 date: '2022-01-07 13:35:17'
 layout: post
-slug: typescript-yup-tree
-title: Validating a Tree in Yup with Typescript
-author: mlilback
-category: Programming
-tags: 
+categories:
+- Programming
+tags:
 - typescript
 - yup
+author: mlilback
 ---
-
 I've been working in [Typescript](https://www.typescriptlang.org) 
 lately using [Yup](https://github.com/jquense/yup) for validating my
 objects. 

@@ -1,16 +1,15 @@
 ---
+title: Resizing an image's file size on iOS
 date: '2023-01-11 19:12:31'
 layout: post
-slug: compress-image-ios
-title: Resizing an image's file size on iOS
-author: mlilback
-category: General
-tags: 
+categories:
+- General
+tags:
 - iOS
 - shortcuts
 - images
+author: mlilback
 ---
-
 I've been playing [Marvel Snap](https://www.marvelsnap.com) a lot recently 
 and wanted to share screen shots on Discord. However, free Discord has an 
 8 MB file upload limit. So I created this [shortcut](https://www.icloud.com/shortcuts/524d20f7c585482db16a96360d368006)

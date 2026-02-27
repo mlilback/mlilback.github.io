@@ -1,10 +1,7 @@
 ---
+title: inane interfaces
 date: '2010-09-09 20:37:16'
 layout: post
-slug: inane-interfaces
-status: publish
-title: inane interfaces
-wordpress_id: '54'
 categories:
 - Pet Peeves
 tags:
@@ -14,8 +11,8 @@ tags:
 - interface
 - meniscus
 - microwave
+author: mlilback
 ---
-
 I bought a new microwave oven last night (we left my old one back in Texas 'cause it was in pretty bad shape) and I just used it for the first time -- popcorn is popping right now. And as amazing as the features it offers are (it includes a toaster oven in it -- Alex wouldn't stop talking about how I was getting a much better microwave than he has), I already hate it. Why?
 
 

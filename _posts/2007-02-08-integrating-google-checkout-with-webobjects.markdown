@@ -1,16 +1,13 @@
 ---
+title: Integrating Google Checkout With WebObjects
 date: '2007-02-08 23:04:45'
 layout: post
-slug: integrating-google-checkout-with-webobjects
-status: publish
-title: Integrating Google Checkout With WebObjects
-wordpress_id: '11'
 categories:
 - Programming
-tags: 
+tags:
 - WebObjects
+author: mlilback
 ---
-
 I've been spending days on this. I kept getting messages that the socket to the app was being closed, and I couldn't find out why. 
 
 
