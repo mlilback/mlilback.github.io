@@ -5,6 +5,14 @@
   icon: "fab fa-facebook"
   url: "https://www.facebook.com/mlilback"
 
+- type: mastodon
+  icon: "fab fa-mastodon"
+  url: "https://mastodon.social/@mlilback"
+
+- type: bluesky
+  icon: "fa-brands fa-bluesky"
+  url: "https://bsky.app/profile/mlilback.bsky.social"
+
 - type: rss
   icon: "fas fa-rss"
   noblank: true
